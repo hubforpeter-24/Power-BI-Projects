@@ -1,1 +1,2 @@
-# Power-BI-Projects
+![Image](https://github.com/user-attachments/assets/07ef7324-69a8-4ad4-a0d1-6f757b969176)
+The dashboard provides various metrics and visualizations related to sales, items, ratings, and outlet performance. A complete analysis has been done and visualized using Power BI. The pbit file and report has been uploadede to the repository. This file can be utilized by anyone for reference and study purpose only. Enjoy being a Power Bi Developer. All The Best!! 
